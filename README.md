@@ -1,2 +1,2 @@
 # LearnTech+ 
-Website usinf HTML and CSS3
+Website using HTML and CSS3
