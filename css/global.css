@@ -1,0 +1,64 @@
+/*
+====================================================================================================================================================================
+                                                    Start Global Properties
+====================================================================================================================================================================
+*/
+ body{
+   font-family: roboto;
+ }
+header{
+  width: 100%;
+  height: 76px;
+  background: red;
+}
+img#logo{
+  margin-left: 100px;
+  margin-right: 100px;
+  position: absolute;
+  top: 17px;
+  left: 0;
+}
+nav{
+  display: inline-block;
+  margin-left: 400px;
+  margin-top: 30px;
+}
+a{
+  color: white;
+  font-weight: 2em;
+  font-family: 'roboto';
+  text-decoration: none;
+  margin-right: 30px;
+  padding: 30px;
+  border-radius: 20px;
+}
+a:hover{
+  background: orange;
+}
+button{
+  width: 80%;
+  height: 50px;
+  color:white;
+  border-radius: 20px;
+  background: #172035;
+  font-size: 2em;
+  font-style: oblique;
+  cursor: pointer;
+}
+button:hover{
+  background: dodgerblue;
+}
+h1{
+  font-size: 4em;
+}
+h2{
+  font-size: 2em;
+}
+h3{
+  font-size: 2em;
+}
+/*
+====================================================================================================================================================================
+                                                    End Global Properties
+====================================================================================================================================================================
+*/

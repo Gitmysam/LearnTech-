@@ -1,0 +1,57 @@
+/*
+====================================================================================================================================================================
+                                                    Start Tech Support Page
+====================================================================================================================================================================
+*/
+img#computer{
+  position: absolute;
+  top: 250px;
+  left: 250px;
+  border-radius: 50px;
+}
+div.text{
+  position: absolute;
+  top: 250px;
+  left: 700px;
+}
+img#computer2{
+  position: absolute;
+  top: 600px;
+  left: 250px;
+  border-radius: 50px;
+}
+div.text2{
+  position: absolute;
+  top: 600px;
+  left: 700px;
+}
+img#computer3{
+  position: absolute;
+  top: 950px;
+  left: 250px;
+  border-radius: 50px;
+}
+div.text3{
+  position: absolute;
+  top: 950px;
+  left: 700px;
+}
+footer#techsupport{
+  width: 100%;
+  background: red;
+  height: 70px;
+  position: absolute;
+  top: 1300px;
+  left: 0;
+}
+p#footer{
+  margin-top: 40px;
+  text-align: center;
+  color: white;
+  font-size: 1em;
+}
+/*
+====================================================================================================================================================================
+                                                    End Tech Support Page
+====================================================================================================================================================================
+*/
